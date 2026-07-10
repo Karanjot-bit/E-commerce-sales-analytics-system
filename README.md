@@ -32,8 +32,9 @@ The main objective is to transform raw data into useful information that can hel
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard%20preview.jpeg)
 
+> This dashboard provides a clear view of sales performance, including total sales, orders, and monthly trends using interactive visualizations.
 
 ## 📊 Dataset
 
