@@ -34,6 +34,7 @@ The main objective is to transform raw data into useful information that can hel
 
 ![Dashboard Preview](dashboard-preview.png)
 
+
 ## 📊 Dataset
 
 The dataset contains:
